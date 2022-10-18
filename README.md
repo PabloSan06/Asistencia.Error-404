@@ -13,7 +13,7 @@
 Error-404 somos:
                   
 - [Ahumada, Brian](https://github.com/brianahumada) - [aca pueden ver el ejercicio **Rectangulo.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/Rectangulo.py)         
--                 
+              
 - Alancay, Abel Matias                
 
 - Alsina, Maximiliano Gabriel     
