@@ -24,7 +24,7 @@ Error-404 somos:
 
 - [Chavez, Rodrig](https://github.com/RodrigoChavez1986)o                      
 
-- [Costa, Maria Eugenia](https://github.com/eugenia1984)  - [Aca pueden ver el ejercicio **Ejercicio11.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/ejercicio11.py)]           
+- [Costa, Maria Eugenia](https://github.com/eugenia1984)  - [Aca pueden ver el ejercicio **Ejercicio11.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/ejercicio11.py)           
 
 - Navarro, Lucas                         
 
