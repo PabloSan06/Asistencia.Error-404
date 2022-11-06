@@ -20,7 +20,7 @@ Error-404 somos:
 
 - Berrini, Alejandro                      
 
-- Calle Porco, Sonia Enes       
+- [Calle, Sonia](https://github.com/SoCalle) - [Mi ejercicio **Cubo.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/Cubo.py)  
 
 - [Chavez, Rodrig](https://github.com/RodrigoChavez1986)o                      
 
