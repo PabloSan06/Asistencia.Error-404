@@ -16,7 +16,7 @@ Error-404 somos:
               
 - [Alancay, Abel Matias](https://github.com/matias9486)  - [Aca pueden ver el ejercicio **Herencia con python**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/Ejercicio_Herencia_Vehiculo.py)             
 
-- Alsina, Maximiliano Gabriel     
+- [Alsina, Maximiliano Gabriel](https://github.com/MalsinaG) - [aca pueden ver el ejercicio **Cuboo.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/Cubo.py)     
 
 - Berrini, Alejandro                      
 
