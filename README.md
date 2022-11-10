@@ -18,7 +18,7 @@ Error-404 somos:
 
 - [Alsina, Maximiliano Gabriel](https://github.com/MalsinaG) - [aca pueden ver el ejercicio **Cuboo.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/Cubo.py)     
 
-- Berrini, Alejandro                      
+- [Berrini, Alejandro](https://github.com/AlejandroEB89) - [Ejercicio: **Clase Rectangulo**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/EjecricioClaseRectangulo.py)                     
 
 - [Calle, Sonia](https://github.com/SoCalle) - [Mi ejercicio **Cubo.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/Cubo.py)  
 
