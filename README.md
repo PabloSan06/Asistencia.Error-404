@@ -30,5 +30,5 @@ Error-404 somos:
 
 - Romani, Santiago                  
  
-- Sanguinetti Flores ,Pablo     
+- Sanguinetti Flores ,Pablo     (https://github.com/PabloSan06/Asistencia.Error-404/blob/main/asistencia%20Sanguinetti)
 
